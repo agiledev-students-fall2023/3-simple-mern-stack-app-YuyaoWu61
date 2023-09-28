@@ -15,7 +15,7 @@ To complete this exercise:
 When you have completed the exercise, leave your local copy of the app running, enter the public link to it here, and push your code changes to GitHub:
 
 ```
-https://6690-100-1-101-54.ngrok.io
+https://449e-100-1-101-54.ngrok-free.app
 ```
 
 ## How to launch the app
